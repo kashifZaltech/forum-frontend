@@ -20,7 +20,7 @@ conn_params = {
 
 # Initialize OpenAI client
 client = OpenAI(
-    api_key="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"
+    api_key="..."
 )
 
 # Askwriter API URL
